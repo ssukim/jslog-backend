@@ -1,0 +1,20 @@
+{
+  "name": "jslog-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssukim/jslog-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssukim/jslog-backend/issues"
+  },
+  "homepage": "https://github.com/ssukim/jslog-backend#readme"
+}
